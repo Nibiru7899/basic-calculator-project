@@ -1,2 +1,7 @@
-# basic-calculator-project
-This project involves creating a simple calculator that can perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It teaches the learner about basic syntax, logic, and I/O operations in Python. By completing this project, the learner will gain hands-on experience with fundamental programming concepts.
+# Learning Project
+## Description
+A learning project to demonstrate basic project structure and functionality.
+## Acceptance Criteria
+* The project should have a main entry point
+* The project should have unit tests
+* The project should follow standard professional guidelines for commit messages and API documentation
